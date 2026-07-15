@@ -3,3 +3,4 @@
 - algebraic_structures_notes.pdf: Notes for *Algebra Structure and Mathematical Logic (Honor)* (COMP130005h, 代数结构与数理逻辑（H）), in Chinese. These notes actually contain no content related to mathematical logic despite the course name. We were out of time that semester so the logic part was not lectured on at all.
 - 软件体系结构复习.pdf:  Outlines for final exam preparation for *Software Architecture* (COMP130025, 软件体系结构), in Chinese.
 - 互联网体系结构复习.pdf: Outlines for final exam preparation for *Internet Architecture* (COMP130177, 互联网体系结构), in Chinese. The "Past Exam" section is obtained by OCR, thus containing some misprinted characters. Use at your own discretion.
+- 对编程语言理论中元语言和目标语言概念的辨析.pdf: Disambiguation about the concept of "metalanguages" and "object languages" in programming language theory targeted at beginners. In Chinese.
